@@ -1,1 +1,1 @@
-The avatar of my GitHub Account is referenced from <a href="https://www.pixiv.net/artworks/69174797">Pixiv</a>,painted by <a href="https://www.pixiv.net/ users/188106">たんたんめん</a>. If it is not for public using, please contact me to remove.
+The avatar of my GitHub account is referenced from <a href="https://www.pixiv.net/artworks/69174797">Pixiv</a>,painted by <a href="https://www.pixiv.net/ users/188106">たんたんめん</a>. If it is not for public using, please contact me to remove.
