@@ -80,6 +80,8 @@
 
 总之…非常非常感谢你来看了看这个无可救药的笨蛋哦…
 <hr/>
+** The avatar of my GitHub Account is referenced from <a href="https://www.pixiv.net/artworks/69174797">Pixiv</a>,painted by <a href="https://www.pixiv.net/ users/188106">たんたんめん</a>. If it is not for public using, please contact me to remove.
+<hr/>
 <div align="center">2018-2023: <a href="https://github.com/ZiAzusa">梓漪(ZiAzusa)</a></div>
 <!--
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
