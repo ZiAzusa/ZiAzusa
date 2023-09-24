@@ -74,7 +74,7 @@
 </details>
 
 
-### 💖 挂个乞讨链接（bushi
+### 💖 放个乞讨链接（bushi
 ⚡ [爱发电](https://afdian.net/a/ZiAzusa)
 
 
