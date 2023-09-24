@@ -80,7 +80,7 @@
 
 总之…非常非常感谢你来看了看这个无可救药的笨蛋哦…
 <hr/>
-<div align="center">2018-2023: <a href="https://github.com/ZiAzusa">梓漪(ZiAzusa)</a></div>
+<div align="center"><a href="https://github.com/ZiAzusa/ZiAzusa/AboutAvatar.md">About Avatar</a> | 2018-2023: <a href="https://github.com/ZiAzusa">梓漪(ZiAzusa)</a></div>
 <!--
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 -->
