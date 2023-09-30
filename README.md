@@ -14,9 +14,9 @@
 <a href="https://github.com/ZiAzusa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<!--<a href="https://twitter.com/ShimotoriAzusa" target="_blank">
+<a href="https://twitter.com/ShimotoriAzusa" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>-->
+</a>
 <a href="mailto:zi@moeloli.cyou" target="_blank">
 <img src=https://img.shields.io/badge/mail-%231e90ff.svg?&style=for-the-badge&logo=mail.ru&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a>
@@ -40,8 +40,8 @@
   
 ♪( ´▽｀) 咱懒得整理排版什么的了！所以就都丢在这里好啦~<br><br>
 原、舟、穹、音游、BA、网文、B站、Vocaloid、二刺螈、Internet Overdose、究极i人、重度社恐、笨蛋、懒蛋、小天使、白切黑、深夜发癫、阴暗爬行、女孩子贴贴是好文明、乱写Web前端代码的、高三牲…以及…想变得可爱！\\(//∇//)\ 
-<!--<img src="https://github.com/ZiAzusa/ZiAzusa/blob/main/MyDream.JPG" width="50%" />-->
-<br>
+<img src="https://github.com/ZiAzusa/ZiAzusa/blob/main/MyDream.JPG" width="50%" />
+<br><br>
 就酱！
 </details>
 <details>
