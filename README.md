@@ -71,7 +71,7 @@
 <a href="https://github.com/ZiAzusa" target="_blank"><img src="https://github-readme-stats.moeloli.cyou/api?username=ZiAzusa&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=cn&theme=transparent" alt="ZiAzusa" /></a><br/>
 <a href="https://github.com/ZiAzusa" target="_blank"><img src="https://github-readme-stats.moeloli.cyou/api/top-langs/?username=ZiAzusa&layout=compact&langs_count=10&card_width=445&hide_border=true&locale=cn&theme=transparent" alt="ZiAzusa" /></a>
 <br>
-❤️ (o゜▽゜)o☆ 有这些人查看了咱的GitHub，好耶！
+❤️ (o゜▽゜)o☆ 有好多人看了咱的GitHub，好耶~
 <br><br>
 <a href="https://github.com/ZiAzusa" target="_blank"><img src="https://count.getloli.com/get/@:ZiAzusa?theme=moebooru" alt="ZiAzusa" /></a>
 </details>
@@ -83,7 +83,7 @@
 
 嗯…就这些啦( ´▽` )ﾉ
 
-总之…非常非常感谢你来看了看这个无可救药的笨蛋哦…
+总之…非常感谢你来看了看这个无可救药的笨蛋…
 
 
 <hr/>
