@@ -40,7 +40,7 @@
   
 ♪( ´▽｀) 咱懒得整理排版什么的了！所以就都丢在这里好啦~<br><br>
 原、舟、穹、音游、BA、网文、B站、Vocaloid、二刺螈、Internet Overdose、究极i人、重度社恐、笨蛋、懒蛋、小天使、白切黑、深夜发癫、阴暗爬行、女孩子贴贴是好文明、乱写Web前端代码的、高三牲…以及…想变得可爱！\\(//∇//)\ 
-
+<br><br>
 <img src="https://intro.sukimoe.cn/MyDream.JPG" width="256px" />
 <br><br>
 就酱！
@@ -73,7 +73,7 @@
 
 ❤️ (o゜▽゜)o☆ 有这些人查看了咱的GitHub，好耶！
 
-[![:ZiAzusa](https://count.getloli.com/get/@:ZiAzusa?theme=moebooru)](https://github.com/ZiAzusa)
+<a href="https://github.com/ZiAzusa" target="_blank"><img src="https://count.getloli.com/get/@:ZiAzusa?theme=moebooru" alt="ZiAzusa" /></a>
 </details>
 
 
