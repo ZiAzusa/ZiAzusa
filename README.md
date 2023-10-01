@@ -73,18 +73,18 @@
 <br>
 ❤️ (o゜▽゜)o☆ 有这些人查看了咱的GitHub，好耶！
 <br><br>
-<a href="https://github.com/ZiAzusa" target="_blank"><img src="https://count.getloli.com/get/@:ZiAzusa?theme=moebooru" alt="ZiAzusa" /></a><br>
+<a href="https://github.com/ZiAzusa" target="_blank"><img src="https://count.getloli.com/get/@:ZiAzusa?theme=moebooru" alt="ZiAzusa" /></a>
 </details>
 
 
 <!--### 💖 放个乞讨链接（bushi
 ⚡ [爱发电](https://afdian.net/a/ZiAzusa)-->
-<hr/>
+<br><br><hr/>
 
 
 嗯…就这些啦( ´▽` )ﾉ
 
-总之…非常非常感谢你来看了看这个无可救药的笨蛋哦…
+总之…非常感谢你来看了这个无可救药的笨蛋…
 
 
 <hr/>
