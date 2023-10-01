@@ -44,6 +44,7 @@
 <img src="https://intro.sukimoe.cn/MyDream.JPG" width="256px" />
 <br><br>
 就酱！
+<br>
 </details>
 <details>
 <summary><h3>💻 咱正在努力学习这些！</h3></summary>
