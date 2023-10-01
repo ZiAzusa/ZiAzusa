@@ -79,11 +79,12 @@
 
 <!--### 💖 放个乞讨链接（bushi
 ⚡ [爱发电](https://afdian.net/a/ZiAzusa)-->
-<br><p>
+<hr/>
+
 嗯…就这些啦( ´▽` )ﾉ
-<br>
+
 总之…非常非常感谢你来看了看这个无可救药的笨蛋哦…
-</p>
+
 <hr/>
 <div align="center"><a href="https://github.com/ZiAzusa/ZiAzusa/blob/main/AboutAvatar.md">About Avatar</a> | 2018-2023: <a href="https://github.com/ZiAzusa">梓漪(ZiAzusa)</a></div>
 <!--
