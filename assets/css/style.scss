@@ -8,3 +8,9 @@ body > header > h2 {
 body > header > a {
   display: none !important;
 }
+summary {
+  cursor: pointer;
+}
+summary:hover, summary:active {
+  color: #1abf6c !important;
+}
