@@ -73,7 +73,7 @@
 <br>
 ❤️ (o゜▽゜)o☆ 有这些人查看了咱的GitHub，好耶！
 <br><br>
-<a href="https://github.com/ZiAzusa" target="_blank"><img src="https://count.getloli.com/get/@:ZiAzusa?theme=moebooru" alt="ZiAzusa" /></a>
+<a href="https://github.com/ZiAzusa" target="_blank"><img src="https://count.getloli.com/get/@:ZiAzusa?theme=moebooru" alt="ZiAzusa" /></a><br>
 </details>
 
 
@@ -81,9 +81,11 @@
 ⚡ [爱发电](https://afdian.net/a/ZiAzusa)-->
 <hr/>
 
+
 嗯…就这些啦( ´▽` )ﾉ
 
 总之…非常非常感谢你来看了看这个无可救药的笨蛋哦…
+
 
 <hr/>
 <div align="center"><a href="https://github.com/ZiAzusa/ZiAzusa/blob/main/AboutAvatar.md">About Avatar</a> | 2018-2023: <a href="https://github.com/ZiAzusa">梓漪(ZiAzusa)</a></div>
