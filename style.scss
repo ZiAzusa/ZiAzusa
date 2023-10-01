@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+body > header > h2 {
+  display: none;
+}
+body > header > a {
+  display: none;
+}
