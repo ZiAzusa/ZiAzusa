@@ -12,13 +12,13 @@
 > 所以你可以叫咱梓、梓酱或者阿梓…或许也可以叫木辛（？
 
 <a href="https://github.com/ZiAzusa" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/ShimotoriAzusa" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:zi@moeloli.cyou" target="_blank">
-<img src=https://img.shields.io/badge/mail-%231e90ff.svg?&style=for-the-badge&logo=mail.ru&logoColor=white alt=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/mail-%231e90ff.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
 </a>
 
 
@@ -67,8 +67,8 @@
 <details>
 <summary><h3>📊 咱GitHub的一些数据…</h3></summary>
 
-[![:ZiAzusa](https://github-readme-stats.moeloli.cyou/api?username=ZiAzusa&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=cn&theme=transparent)](https://github.com/ZiAzusa)<br/>
-[![:ZiAzusa](https://github-readme-stats.moeloli.cyou/api/top-langs/?username=ZiAzusa&layout=compact&langs_count=10&card_width=445&hide_border=true&locale=cn&theme=transparent)](https://github.com/ZiAzusa)
+<a href="https://github.com/ZiAzusa" target="_blank"><img src="https://github-readme-stats.moeloli.cyou/api?username=ZiAzusa&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=cn&theme=transparent" alt="ZiAzusa" /></a><br/>
+<a href="https://github.com/ZiAzusa" target="_blank"><img src="https://github-readme-stats.moeloli.cyou/api/top-langs/?username=ZiAzusa&layout=compact&langs_count=10&card_width=445&hide_border=true&locale=cn&theme=transparent" alt="ZiAzusa" /></a>
 
 ❤️ (o゜▽゜)o☆ 有这些人查看了咱的GitHub，好耶！
 
