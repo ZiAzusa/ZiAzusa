@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 body > header > h2 {
-  display: none;
+  display: none !important;
 }
 body > header > a {
-  display: none;
+  display: none !important;
 }
