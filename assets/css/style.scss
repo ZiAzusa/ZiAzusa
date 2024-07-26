@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+body > header {
+  background: url(https://intro.lie.moe/Banner.JPG) no-repeat center / cover !important;
+}
 body > header > h2 {
   display: none !important;
 }
