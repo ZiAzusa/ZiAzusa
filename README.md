@@ -9,7 +9,7 @@
 &ensp;•&ensp;JP：霜鳥 梓（Shimotori Azusa）
 
 
-> 所以你可以叫咱梓、梓酱或者阿梓…或许也可以叫木辛（？
+> 你可以称呼我为梓、梓酱或者阿梓…或许也可以叫木辛（？
 
 <a href="https://github.com/ZiAzusa" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
@@ -30,24 +30,13 @@
 &ensp;•&ensp;And that everything fine in the world can be shared. 
 
 
-### 📔 咱正在做什么？  
+### 📔 我正在做什么？  
 📝 咱正在努力学习（确信）Web开发和网页设计的相关知识，
 
 🎨 希望咱能为这个世界增添一份色彩！
 
 <details>
-<summary><h3>🔍 然后有关咱的成分嘛…</h3></summary>
-  
-♪( ´▽｀) 咱懒得整理排版什么的了！所以就都丢在这里好啦~<br><br>
-原、舟、穹、音游、BA、网文、B站、Vocaloid、二刺螈、Internet Overdose、究极i人、重度社恐、笨蛋、懒蛋、小天使、白切黑、深夜发癫、阴暗爬行、女孩子贴贴是好文明、乱写Web前端代码的、高三牲…以及…想变得可爱！\\(//∇//)\ 
-<br><br>
-<img src="https://intro.lie.moe/MyDream.JPG" width="256px" />
-<br><br>
-就酱！
-<br>
-</details>
-<details>
-<summary><h3>💻 咱正在努力学习这些！</h3></summary>
+<summary><h3>💻 我正在努力学习这些！</h3></summary>
 
 <div align="left" style="max-width: 256">
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="32" /></a>
@@ -67,19 +56,15 @@
 </div>  
 </details>
 <details>
-<summary><h3>📊 咱GitHub的一些数据…</h3></summary>
+<summary><h3>📊 …</h3></summary>
 
 <a href="https://github.com/ZiAzusa" target="_blank"><img src="https://github-readme-stats.moeloli.cyou/api?username=ZiAzusa&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=cn&theme=transparent" alt="ZiAzusa" /></a><br/>
 <a href="https://github.com/ZiAzusa" target="_blank"><img src="https://github-readme-stats.moeloli.cyou/api/top-langs/?username=ZiAzusa&layout=compact&langs_count=10&card_width=445&hide_border=true&locale=cn&theme=transparent" alt="ZiAzusa" /></a>
 <br>
-(o゜▽゜)o☆ 有好多人看了咱的GitHub，好耶~
+(o゜▽゜)o☆ 有好多人看了我的GitHub，好耶~
 <br><br>
 <a href="https://github.com/ZiAzusa" target="_blank"><img src="https://count.getloli.com/get/@:ZiAzusa?theme=moebooru" alt="ZiAzusa" /></a>
 </details>
-
-
-<!--### 💖 放个乞讨链接（bushi
-⚡ [爱发电](https://afdian.net/a/ZiAzusa)-->
 
 
 嗯…就这些啦( ´▽` )ﾉ
