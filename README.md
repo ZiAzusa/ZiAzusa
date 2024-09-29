@@ -1,15 +1,8 @@
 想了很久…还是决定写个简介啦，所以…
-## ヾ(≧▽≦*)o 初次见面/好久不见！你好呀！咱是梓漪！
+## ヾ(≧▽≦*)o 初次见面/好久不见！你好，我是梓漪！
 
 ###### > console.log("Hello, World!")  
 
-&ensp;•&ensp;ZH：梓漪
-
-
-&ensp;•&ensp;JP：霜鳥 梓（Shimotori Azusa）
-
-
-> 你可以称呼我为梓、梓酱或者阿梓…或许也可以叫木辛（？
 
 <a href="https://github.com/ZiAzusa" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
@@ -25,15 +18,9 @@
 ### 🫧 很高兴认识你！ 
 &ensp;•&ensp;愿人与人之间没有隔阂，愿世间的美好得以共享。
 
-&ensp;•&ensp;Wishing no estrangement between people,
-
-&ensp;•&ensp;And that everything fine in the world can be shared. 
-
 
 ### 📔 我正在做什么？  
-📝 咱正在努力学习（确信）Web开发和网页设计的相关知识，
-
-🎨 希望咱能为这个世界增添一份色彩！
+📝 我正学习Web开发的相关知识。
 
 <details>
 <summary><h3>💻 我正在努力学习这些！</h3></summary>
@@ -61,19 +48,13 @@
 <a href="https://github.com/ZiAzusa" target="_blank"><img src="https://github-readme-stats.moeloli.cyou/api?username=ZiAzusa&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=cn&theme=transparent" alt="ZiAzusa" /></a><br/>
 <a href="https://github.com/ZiAzusa" target="_blank"><img src="https://github-readme-stats.moeloli.cyou/api/top-langs/?username=ZiAzusa&layout=compact&langs_count=10&card_width=445&hide_border=true&locale=cn&theme=transparent" alt="ZiAzusa" /></a>
 <br>
-(o゜▽゜)o☆ 有好多人看了我的GitHub，好耶~
 <br><br>
 <a href="https://github.com/ZiAzusa" target="_blank"><img src="https://count.getloli.com/get/@:ZiAzusa?theme=moebooru" alt="ZiAzusa" /></a>
 </details>
 
 
-嗯…就这些啦( ´▽` )ﾉ
-
-总之…非常非常感谢你来看了看这个近乎无可救药的笨蛋哦…
-
-
 <hr/>
-<div align="center"><a href="https://github.com/ZiAzusa/ZiAzusa/blob/main/AboutAvatar.md">About Avatar</a> | 2018-2023: <a href="https://github.com/ZiAzusa">梓漪(ZiAzusa)</a></div>
+<div align="center"><a href="https://github.com/ZiAzusa/ZiAzusa/blob/main/AboutAvatar.md">About Avatar</a> | 2018-2024: <a href="https://github.com/ZiAzusa">梓漪(ZiAzusa)</a></div>
 <!--
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 -->
