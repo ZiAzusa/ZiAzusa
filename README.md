@@ -14,14 +14,6 @@
 <img src="https://img.shields.io/badge/mail-%231e90ff.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
 </a>
 
-
-### 🫧 很高兴认识你！ 
-&ensp;•&ensp;愿人与人之间没有隔阂，愿世间的美好得以共享。
-
-
-### 📔 我正在做什么？  
-📝 我正学习Web开发的相关知识。
-
 <details>
 <summary><h3>💻 我正在努力学习这些！</h3></summary>
 
