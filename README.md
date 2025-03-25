@@ -1,7 +1,7 @@
 <!--想了很久…还是决定写个简介啦，所以…-->
 ## ヾ(≧▽≦*)o 初次见面/好久不见！你好，我是梓漪！
 
-###### > console.log("Hello, World!")  
+###### > console.log("Ciallo, World!")  
 
 
 <a href="https://github.com/ZiAzusa" target="_blank">
