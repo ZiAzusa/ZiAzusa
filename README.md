@@ -35,8 +35,8 @@
 </div>  
 </details>-->
 <!--<details>-->
-<a href="https://github.com/ZiAzusa" target="_blank"><img src="https://github-readme-stats.moeloli.cyou/api?username=ZiAzusa&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=cn&theme=transparent" alt="ZiAzusa" /></a><br/>
-<a href="https://github.com/ZiAzusa" target="_blank"><img src="https://github-readme-stats.moeloli.cyou/api/top-langs/?username=ZiAzusa&layout=compact&langs_count=10&card_width=445&hide_border=true&locale=cn&theme=transparent" alt="ZiAzusa" /></a>
+<a href="https://github.com/ZiAzusa" target="_blank"><img src="https://github-readme-stats.moeloli.cyou/api?username=ZiAzusa&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent" alt="ZiAzusa" /></a><br/>
+<a href="https://github.com/ZiAzusa" target="_blank"><img src="https://github-readme-stats.moeloli.cyou/api/top-langs/?username=ZiAzusa&layout=compact&langs_count=10&card_width=445&hide_border=true&theme=transparent" alt="ZiAzusa" /></a>
 <br>
 <br><br>
 <a href="https://github.com/ZiAzusa" target="_blank"><img src="https://count.getloli.com/get/@:ZiAzusa?theme=moebooru" alt="ZiAzusa" /></a>
